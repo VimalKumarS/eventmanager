@@ -1,0 +1,14 @@
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\ActiveStateMachine.dll
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\ApplicationServices.dll
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\Common.dll
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\ActiveStateMachine.pdb
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\ApplicationServices.pdb
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\bin\Debug\Common.pdb
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Dexter\pluralsight\building-state-machines-dotnet\5-building-state-machines-exercise-files\after\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
